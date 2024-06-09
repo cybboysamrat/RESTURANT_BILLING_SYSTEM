@@ -20,6 +20,6 @@ Select the item from Menu :-
 
 Select the quantity of item :-
 
-![](Billing description.PNG)
+![](Billing description.PNG).
 
 <p align="center"><b>© Created by Anant Samrat</b></p?
