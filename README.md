@@ -7,20 +7,19 @@ The Restaurant Billing System is an efficient and user-friendly software designe
 
 Select the Meal Menu :-
 
-
-![](Screenshot/Mealselectmenu.JPG)
+![](MealMenu.PNG)
 
 ## STEP-2
 
 Select the item from Menu :-
 
-![](Screenshot/Mealmenu.JPG)
+![](Mealselectmenu.PNG)
 
 
 ## STEP-3
 
 Select the quantity of item :-
 
-![](Screenshot/Billing%20Discription.JPG)
+![](Billing description.PNG)
 
 <p align="center"><b>© Created by Anant Samrat</b></p?
